@@ -1,0 +1,3190 @@
+{
+    "categories": [
+        {
+            "subcategories": [
+                {
+                    "subcategories": [],
+                    "id": 201,
+                    "name": "ARToolKit"
+                },
+                {
+                    "subcategories": [],
+                    "id": 202,
+                    "name": "Calibration"
+                },
+                {
+                    "subcategories": [],
+                    "id": 215,
+                    "name": "Classification"
+                },
+                {
+                    "subcategories": [],
+                    "id": 203,
+                    "name": "Detect Markers"
+                },
+                {
+                    "subcategories": [],
+                    "id": 204,
+                    "name": "Drawing"
+                },
+                {
+                    "subcategories": [],
+                    "id": 205,
+                    "name": "Feature Detection"
+                },
+                {
+                    "subcategories": [],
+                    "id": 206,
+                    "name": "Histogram"
+                },
+                {
+                    "subcategories": [],
+                    "id": 207,
+                    "name": "Image Filtering"
+                },
+                {
+                    "subcategories": [],
+                    "id": 208,
+                    "name": "Image Transformations"
+                },
+                {
+                    "subcategories": [],
+                    "id": 214,
+                    "name": "Image Utils"
+                },
+                {
+                    "subcategories": [],
+                    "id": 209,
+                    "name": "OCR"
+                },
+                {
+                    "subcategories": [],
+                    "id": 210,
+                    "name": "Ransac"
+                },
+                {
+                    "subcategories": [],
+                    "id": 211,
+                    "name": "Reading"
+                },
+                {
+                    "subcategories": [],
+                    "id": 212,
+                    "name": "Segmentation"
+                },
+                {
+                    "subcategories": [],
+                    "id": 213,
+                    "name": "Shape Analysis"
+                },
+                {
+                    "subcategories": [],
+                    "id": 216,
+                    "name": "Background Subtractor"
+                }
+            ],
+            "id": 200,
+            "name": "2D Vision"
+        },
+        {
+            "subcategories": [
+                {
+                    "subcategories": [],
+                    "id": 701,
+                    "name": "Sample Consensus"
+                },
+                {
+                    "subcategories": [],
+                    "id": 702,
+                    "name": "Filtering"
+                },
+
+                {
+                    "subcategories": [],
+                    "id": 703,
+                    "name": "Segmentation"
+                },
+                {
+                    "subcategories": [],
+                    "id": 704,
+                    "name": "Features"
+                },
+                {
+                    "subcategories": [],
+                    "id": 705,
+                    "name": "Measurements"
+                },
+                {
+                    "subcategories": [],
+                    "id": 706,
+                    "name": "Surface"
+                }
+            ],
+            "id": 700,
+            "name": "3D Vision"
+        },
+        {
+            "subcategories": [
+                {
+                    "subcategories": [],
+                    "id": 301,
+                    "name": "EthernetIP"
+                },
+                {
+                    "subcategories": [],
+                    "id": 302,
+                    "name": "Host Link"
+                },
+                {
+                    "subcategories": [],
+                    "id": 303,
+                    "name": "Modbus"
+                },
+                {
+                    "subcategories": [],
+                    "id": 304,
+                    "name": "OPCUA"
+                },
+                {
+                    "subcategories": [],
+                    "id": 305,
+                    "name": "Serial Port"
+                },
+                {
+                    "subcategories": [],
+                    "id": 306,
+                    "name": "TCP/IP"
+                },
+                {
+                    "subcategories": [],
+                    "id": 307,
+                    "name": "Websocket"
+                },
+                {
+                    "subcategories": [],
+                    "id": 308,
+                    "name": "MQTT"
+                },
+                {
+                    "subcategories": [],
+                    "id": 309,
+                    "name": "REST"
+                }
+            ],
+            "id": 300,
+            "name": "Communications"
+        },
+        {
+            "subcategories": [
+                {
+                    "subcategories": [],
+                    "id": 502,
+                    "name": "File"
+                },
+                {
+                    "subcategories": [],
+                    "id": 501,
+                    "name": "File System"
+                },
+                {
+                    "subcategories": [],
+                    "id": 503,
+                    "name": "Gerber"
+                }
+            ],
+            "id": 500,
+            "name": "File"
+        },
+        {
+            "subcategories": [
+                {
+                    "subcategories": [],
+                    "id": 401,
+                    "name": "Genicam"
+                },
+                {
+                    "subcategories": [],
+                    "id": 403,
+                    "name": "Intel Real Sense"
+                },
+                {
+                    "subcategories": [],
+                    "id": 402,
+                    "name": "PLC"
+                },
+                {
+                    "subcategories": [],
+                    "id": 404,
+                    "name": "Sick Visionary"
+                },
+                {
+                    "subcategories": [],
+                    "id": 405,
+                    "name": "Gocator"
+                },
+                {
+                    "subcategories": [],
+                    "id": 406,
+                    "name": "Web Cam"
+                }
+            ],
+            "id": 400,
+            "name": "Hardwares"
+        },
+        {
+            "subcategories": [
+                {
+                    "subcategories": [],
+                    "id": 601,
+                    "name": "Image"
+                },
+                {
+                    "subcategories": [],
+                    "id": 602,
+                    "name": "Math"
+                },
+                {
+                    "subcategories": [],
+                    "id": 608,
+                    "name": "Matrix"
+                },
+                {
+                    "subcategories": [],
+                    "id": 603,
+                    "name": "Measurements"
+                },
+                {
+                    "subcategories": [],
+                    "id": 604,
+                    "name": "Moments"
+                },
+                {
+                    "subcategories": [],
+                    "id": 605,
+                    "name": "String"
+                },
+                {
+                    "subcategories": [],
+                    "id": 607,
+                    "name": "List"
+                },
+                {
+                    "subcategories": [],
+                    "id": 609,
+                    "name": "Binary"
+                },
+                {
+                    "subcategories": [],
+                    "id": 610,
+                    "name": "Buffer"
+                }
+            ],
+            "id": 600,
+            "name": "Operations"
+        },
+        {
+            "subcategories": [
+                {
+                    "subcategories": [],
+                    "id": 102,
+                    "name": "Conditions"
+                },
+                {
+                    "subcategories": [],
+                    "id": 101,
+                    "name": "Date and Time"
+                },
+                {
+                    "subcategories": [],
+                    "id": 108,
+                    "name": "External DLL"
+                },
+                {
+                    "subcategories": [],
+                    "id": 105,
+                    "name": "HMI"
+                },
+                {
+                    "subcategories": [],
+                    "id": 104,
+                    "name": "Loops"
+                },
+                {
+                    "subcategories": [],
+                    "id": 103,
+                    "name": "Utils"
+                },
+                {
+                    "subcategories": [],
+                    "id": 106,
+                    "name": "Workflow"
+                },
+                {
+                    "subcategories": [],
+                    "id": 109,
+                    "name": "Shell"
+                },
+                {
+                    "subcategories": [],
+                    "id": 110,
+                    "name": "Log"
+                }
+            ],
+            "id": 100,
+            "name": "System"
+        }
+    ],
+    "configsSideBar": [
+        {
+            "type": "tool",
+            "tag": "F1BF239E-2FFA-496C-A2F7-4C13C7B40D55",
+            "subcategory": 216,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "D8D558D1-9D75-4591-824B-3CE2DDEDE809",
+            "subcategory": 216,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "653C0C2B-A84D-4496-90F2-BAE4F31900D6",
+            "subcategory": 216,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "0CB49CFD-3439-46C5-86D2-F5B41BF2F937",
+            "subcategory": 201,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "BC660A44-67F9-4EAE-BE33-6C49763F41D5",
+            "subcategory": 201,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "C85717C5-9CF1-4F8D-82B3-FDE425CFAA29",
+            "subcategory": 201,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "b84fe186-449a-4600-8cc5-d85ee751d574",
+            "subcategory": 202,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "de78446c-e64d-4c7d-a63a-c837b2028629",
+            "subcategory": 202,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "7827d315-e913-49ea-a8d2-52ec203e7fd6",
+            "subcategory": 202,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "33234bd3-11d9-4458-a19f-efa373f38d36",
+            "subcategory": 202,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "ecec16b1-5416-4f6a-ac84-c6655d2ede50",
+            "subcategory": 202,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "aa767930-42ad-4969-b992-24b34f2a2141",
+            "subcategory": 202,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "a2c20233-4f16-40a5-8030-111ca2e3e907",
+            "subcategory": 202,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "77689446-7c17-48f5-a149-16afe518f6c5",
+            "subcategory": 202,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "4FC7CA2F-582E-4CD3-A213-C9527CD986F5",
+            "subcategory": 215,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "EED34B1A-C19D-4282-B0D7-DDB1087768E9",
+            "subcategory": 215,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "2F4D645F-A013-427A-A22B-4BEB9AC3F908",
+            "subcategory": 215,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "3F80A005-C967-45C4-AF9A-3A48BEFCBCB1",
+            "subcategory": 215,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "8A8F657F-223B-4614-8E6B-8209D985A72F",
+            "subcategory": 215,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "1A989F59-9C59-4345-88BF-52B03B309001",
+            "subcategory": 215,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "e8844d1c-00b1-4095-b940-1a3dd41aa1f8",
+            "subcategory": 203,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "f9062dc5-fb12-4161-976b-0781c367080c",
+            "subcategory": 203,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "c8d8b197-5f38-404b-949d-2258a8361d74",
+            "subcategory": 203,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "af8ff363-8292-4228-a894-6fbd7165cd8a",
+            "subcategory": 203,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "753256c9-a359-4bb9-a32a-4b1b54a80700",
+            "subcategory": 203,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "f8afd335-486c-4177-b0a1-740f54023aac",
+            "subcategory": 204,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "1fe30626-6091-4552-8562-01ab4040853c",
+            "subcategory": 204,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "a550c76c-b7db-491f-9a34-c76ba91bb0b9",
+            "subcategory": 204,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "01a32b82-13e6-4f21-8dd2-15fd8f1043ed",
+            "subcategory": 204,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "16c75162-e4c5-49de-b4aa-4da19e1fa5eb",
+            "subcategory": 204,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "6fc6c268-67e0-4df2-9934-2499dbd0e46c",
+            "subcategory": 204,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "ad413efb-a4b1-408f-af93-edd4a113b7d8",
+            "subcategory": 204,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "7dfad6f8-dfd5-4749-af1d-0bce73bfe463",
+            "subcategory": 204,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "91c554b7-2672-4a1d-a717-5eba9fbf7eb2",
+            "subcategory": 204,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "eb0276f5-58d5-418b-956a-def448e656a7",
+            "subcategory": 204,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "03b5b3e7-4459-48a0-a597-788b4c3f98e5",
+            "subcategory": 204,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "453e663c-6e88-4cdc-82b4-ab005fc47741",
+            "subcategory": 204,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "5366aca4-39ee-48bf-944a-d4d5f3f01ab4",
+            "subcategory": 204,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "774D92A9-DC70-4D89-B142-B6B263259D7B",
+            "subcategory": 205,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "2FB521DB-3D78-47F3-9183-9E220389533B",
+            "subcategory": 205,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "13482C24-1257-46C2-A44D-CFA2846E3BDD",
+            "subcategory": 205,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "04F9C4E1-0681-417D-836E-39AA2BA156A4",
+            "subcategory": 205,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "9EE030A4-1512-425E-A7EF-388C56057DBF",
+            "subcategory": 205,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "1B95E0FB-61DD-4931-9FB4-0B8479A8B216",
+            "subcategory": 205,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "5282D92A-659E-487F-AE73-12F949D7859C",
+            "subcategory": 205,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "89C90080-BC80-45BA-B086-3C278C555A9F",
+            "subcategory": 205,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "11405373-D901-4044-B50A-59025E913ECC",
+            "subcategory": 205,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "3610B182-745A-4177-B82C-526735719235",
+            "subcategory": 205,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "8F574912-EDBE-4530-9115-3065C56FCA5D",
+            "subcategory": 205,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "20FB8C25-F098-43B0-9531-8574C9CA76E9",
+            "subcategory": 205,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "A8829BD6-972E-43C2-B2CF-0CF88F357ABF",
+            "subcategory": 205,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "2BC71B9C-D0C1-4933-A8A5-45923FD3A677",
+            "subcategory": 205,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "06DA8B07-D5B3-4927-B4E2-B8D9719F05DB",
+            "subcategory": 205,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "CF946253-5A2C-4B7C-B533-F18308DBF6C6",
+            "subcategory": 206,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "18882FFC-8527-4621-A7C7-9E450234F86A",
+            "subcategory": 206,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "22EECA36-E8F1-400A-A43A-D16F901220EC",
+            "subcategory": 206,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "669C4EE0-E480-4740-A909-3D962BFBC696",
+            "subcategory": 206,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "B1C79D74-FBEE-44CA-AE58-1E302BF511D2",
+            "subcategory": 206,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "DD4841E8-4A04-4357-904B-05C3D1F27B5D",
+            "subcategory": 206,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "3B142AFE-907A-41DD-A941-E3CC28E792C4",
+            "subcategory": 206,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "CBDA9CC1-321E-4E49-B4AD-FD5F90A74AC7",
+            "subcategory": 207,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "AEBA4450-CCEC-429D-AC6D-BA9284E0E9E5",
+            "subcategory": 207,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "57EE5275-B4AC-4F9E-857A-44F8119E0A1A",
+            "subcategory": 207,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "4E4285D8-E9D1-4224-AC53-D1AD4FFD35D8",
+            "subcategory": 207,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "2AFD257E-F9C9-4F3C-BC1D-5A3A7F856BDB",
+            "subcategory": 207,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "B93879DD-D2C4-4B3D-B834-9CAB80FDEB03",
+            "subcategory": 207,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "C7137E74-DC90-4409-A32B-A63ACCF58289",
+            "subcategory": 207,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "3F608EF1-3136-4616-BCC9-414CA80C4EEC",
+            "subcategory": 207,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "5A9C89B7-7E1E-4A8B-9CF3-7BB801F8AEDF",
+            "subcategory": 207,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "2BD1DA0A-1230-4118-8EC5-D6D2FBC0AB37",
+            "subcategory": 207,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "34DFCCF8-9740-4CF5-9540-A231FCEA6E54",
+            "subcategory": 207,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "F1B1651F-5267-4EF4-A547-C35CD4873551",
+            "subcategory": 207,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "42B20D35-BA3D-4C45-9E75-B3BADCE13575",
+            "subcategory": 207,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "0FECB15B-9ED5-4BB2-AE2D-18568D169F3F",
+            "subcategory": 207,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "AA2BAA0B-2217-4DEA-B85C-3AEE66192A63",
+            "subcategory": 207,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "F1CAFD0C-61F0-4878-B631-425B8D17E1DA",
+            "subcategory": 207,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "42A09C59-3C28-4D5E-8D4E-614558E74103",
+            "subcategory": 207,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "DB04631E-6A86-48AC-9F14-1489286FA59D",
+            "subcategory": 207,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "953A70F6-B7BB-4B81-957F-A23A61772559",
+            "subcategory": 207,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "54CC45D8-9EA8-4027-970F-194DFA565B6C",
+            "subcategory": 207,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "CE66F992-892F-4C7B-907D-10060817EB1A",
+            "subcategory": 207,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "C96D98CB-24D6-4351-A63C-4AC54625BE0B",
+            "subcategory": 207,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "32DCFD57-2C87-49C1-8FBE-11AC1DFFC8AA",
+            "subcategory": 207,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "7BA13AA5-D27F-4193-8C20-FCC382CE014A",
+            "subcategory": 207,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "D682710E-E0BD-48FE-A866-9AB66D0AE200",
+            "subcategory": 207,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "00B9BFF7-9FAD-4361-B1CC-EE3A7655A131",
+            "subcategory": 208,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "9BE1CF01-8EB2-4470-919C-3E56B65DB1BA",
+            "subcategory": 208,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "F2210CDE-9DB8-4EFA-BD08-981FD8F9A635",
+            "subcategory": 208,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "5AC95E86-856B-47C8-B449-EB31CC640387",
+            "subcategory": 208,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "25729E15-32C9-4D77-8150-BAE1FCA3CC82",
+            "subcategory": 208,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "55C55340-086A-455D-A46A-35D99E750465",
+            "subcategory": 208,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "9A8D745E-7269-404B-BBB9-277996E05CE9",
+            "subcategory": 208,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "D77AF14A-2202-4F3B-8E53-2DB305B615D7",
+            "subcategory": 208,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "634CA3AD-C281-408E-8E0C-A473D4FB9BA6",
+            "subcategory": 208,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "1A63EC8C-BF07-4EC8-A37F-4E27A81E7182",
+            "subcategory": 208,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "62FA79C4-C02E-44B3-8F02-323E020C5ED9",
+            "subcategory": 208,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "AB2F6477-45C1-40B8-B4A2-1E8B947BA7C0",
+            "subcategory": 208,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "9FF68029-D4F2-4385-82A9-76664EDC89FD",
+            "subcategory": 208,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "611DC666-C4F0-49AF-A464-042AB7519675",
+            "subcategory": 214,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "5B1D113B-19CC-4F53-9232-F07E063506D3",
+            "subcategory": 214,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "B17C29CC-6EE3-45F2-91A7-56410492C526",
+            "subcategory": 214,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "A59D70BB-9071-4A2C-B8A8-88DB6706D740",
+            "subcategory": 214,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "72D0E969-E513-4775-A50D-FC8BE6D53FE7",
+            "subcategory": 214,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "7E71807E-49F9-4E21-AF51-BCB11C7A6AD8",
+            "subcategory": 214,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "4E763ECF-61CB-4E4F-A092-9890338B618D",
+            "subcategory": 214,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "B8EEA69F-34FD-4ECF-892E-216EE70362B2",
+            "subcategory": 214,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "02DC6EC9-EE83-4E94-9EF1-56BC926D0A5B",
+            "subcategory": 214,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "4B308483-97AE-46BD-9A5B-A8DD8E3EE141",
+            "subcategory": 214,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "DB3D2A07-815C-494A-88A8-F722DB502E6F",
+            "subcategory": 214,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "BF20190C-1E76-4083-8EEF-2F338DA5CED1",
+            "subcategory": 209,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "55CCC7E7-9AD4-44E1-98B7-AAECD96DBBF9",
+            "subcategory": 209,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "05FE4508-0CD1-4D62-A167-852876F61CC2",
+            "subcategory": 210,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "629DC99B-4A81-4C04-90FF-F63979464CD4",
+            "subcategory": 210,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "8213407D-00A2-470E-ADCC-1B27FB5E0DDB",
+            "subcategory": 210,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "3d56b0a8-606c-4111-a46e-b816441af2d0",
+            "subcategory": 211,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "293e6fff-4d0c-4217-b768-33b7e64180c4",
+            "subcategory": 212,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "1854f650-60d7-4219-8205-d960c2c2789c",
+            "subcategory": 212,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "906a8ece-fd27-4b81-a2f0-a0eab1fdba01",
+            "subcategory": 212,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "1369133f-d1d2-48c9-bce2-5978f64a30ec",
+            "subcategory": 212,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "63dcefc8-82ac-4c22-a74c-710be9da7afc",
+            "subcategory": 212,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "0dc81343-a50b-42a7-baa7-cfe57f67a808",
+            "subcategory": 212,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "26304c34-2783-4bc5-a799-8bd70ff0f088",
+            "subcategory": 212,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "7f6d1f8a-22dc-4f00-80ff-e81a3a91e550",
+            "subcategory": 212,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "5565e695-28ef-4b43-bb2b-c60ff4cf320a",
+            "subcategory": 212,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "C7C498AA-4EED-424A-AF2D-24F67537A3BE",
+            "subcategory": 213,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "EAB16A7F-9731-4F36-9DEA-4DA10B052C02",
+            "subcategory": 213,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "D80E6BC1-9207-4FA5-B75A-5FF962D3DFC8",
+            "subcategory": 213,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "62A3F8DF-07E1-46FB-B121-947159573457",
+            "subcategory": 213,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "C4A21D0F-5243-47CE-8647-56F381F01FE7",
+            "subcategory": 213,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "791BE4F1-A7E2-4C1C-A279-AFDC1E9C1BBC",
+            "subcategory": 213,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "9D0E492A-2776-4412-B451-56024AA0AF12",
+            "subcategory": 213,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "B212A94E-73AF-4C47-8AE2-438FE0F8FFC4",
+            "subcategory": 213,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "C039003E-0B53-416E-8791-56ED1CE4A0EB",
+            "subcategory": 213,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "E0C17406-6997-4F16-8955-ED557595A598",
+            "subcategory": 213,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "B267E2E4-51DA-4914-906E-208E435DD72B",
+            "subcategory": 213,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "1EFEF6DE-2CF3-4D98-A28C-6E7954094E98",
+            "subcategory": 213,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "867C4D62-7472-4986-952B-E6AE754F9662",
+            "subcategory": 213,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "EC712034-4A4A-4893-BF7A-24936C9BFD2D",
+            "subcategory": 213,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "FEB8AA76-D6E0-4B05-99BE-5B6350B51383",
+            "subcategory": 213,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "BD45D742-0FAE-49C0-8300-60634424E85D",
+            "subcategory": 213,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "3B8CD66A-BD3B-448E-AC16-1440E1C5F8B9",
+            "subcategory": 213,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "79AA57B7-118A-4775-B070-C9C115F61AE1",
+            "subcategory": 213,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "06BDF103-3A9D-49C4-B741-A381E0B4122B",
+            "subcategory": 213,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "0E4DF992-0B2C-4981-B6C6-0A605982F5BE",
+            "subcategory": 213,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "778D1B8F-073F-4C6D-93DE-3D7F86DC8D9B",
+            "subcategory": 213,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "F66B64AC-FF7E-4CA1-A1E4-B9A37DF26254",
+            "subcategory": 213,
+            "color": "b-2dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "FC2FBB44-08F7-4FD1-BC25-4C1C726D931D",
+            "subcategory": 702,
+            "color": "b-3dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "F12DF57F-305A-454E-9D90-02C095A29D66",
+            "subcategory": 702,
+            "color": "b-3dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "7B5FA81A-D2D0-4DEA-B38D-11A306B9C632",
+            "subcategory": 702,
+            "color": "b-3dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "5F53ED2A-0B49-438F-BA38-6518F8D11874",
+            "subcategory": 702,
+            "color": "b-3dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "39093439-FF07-4B9C-8F37-C31ABBEF566E",
+            "subcategory": 702,
+            "color": "b-3dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "9470114A-91CF-4CA4-AD7F-66CD81739E42",
+            "subcategory": 702,
+            "color": "b-3dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "6a9cf968-257b-4dab-882b-f178129b96ba",
+            "subcategory": 705,
+            "color": "b-3dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "8EAAFD82-3232-41FC-A97E-655CA0BBE44D",
+            "subcategory": 701,
+            "color": "b-3dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "47913C66-B056-4903-8860-5007A54985C7",
+            "subcategory": 701,
+            "color": "b-3dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "E3CFB841-32BF-4ABE-BA79-F9CA05A0CED0",
+            "subcategory": 701,
+            "color": "b-3dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "139AE82A-4AAC-4DCE-9C89-A034218137BB",
+            "subcategory": 701,
+            "color": "b-3dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "05A83666-FF7D-4D29-9173-8F1591E01662",
+            "subcategory": 701,
+            "color": "b-3dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "094676F9-510D-4304-9361-46F9296D1648",
+            "subcategory": 701,
+            "color": "b-3dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "E62F47CC-42B3-408F-A7B6-42941052B81C",
+            "subcategory": 703,
+            "color": "b-3dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "30CB8FD7-6839-46DC-84FA-507CFF492126",
+            "subcategory": 703,
+            "color": "b-3dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "6DDC1746-8451-4761-8E20-3AB5635FF6D6",
+            "subcategory": 704,
+            "color": "b-3dvision"
+        },
+
+        {
+            "type": "tool",
+            "tag": "6551F65E-8833-4DFB-B8DE-78E03AD8632C",
+            "subcategory": 704,
+            "color": "b-3dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "EBAC474D-495C-4B53-88FB-527E4567AF8D",
+            "subcategory": 704,
+            "color": "b-3dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "44355392-5E3D-4615-AB41-891EC227494E",
+            "subcategory": 706,
+            "color": "b-3dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "96B8BB1E-3B8C-4BD1-BE83-2F25A143C1F7",
+            "subcategory": 706,
+            "color": "b-3dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "7370697D-29CD-4279-9FD4-772874058474",
+            "subcategory": 706,
+            "color": "b-3dvision"
+        },
+        {
+            "type": "tool",
+            "tag": "8300b4d1-180b-4f96-a3f0-92af54908dc7",
+            "subcategory": 301,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "dd560ddc-5c42-41ef-8bc7-30aa35403432",
+            "subcategory": 301,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "8b0a5b26-9c08-4ddd-a7f1-0856a4b234c1",
+            "subcategory": 301,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "d81659d5-db03-4044-8dd3-4be03daf7dc2",
+            "subcategory": 301,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "0b1cf0b4-e6b1-440a-99fc-27871e21f630",
+            "subcategory": 302,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "2ccbb46a-0426-45c8-862f-e2d908e6fb2c",
+            "subcategory": 302,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "577c203e-4a80-4fe1-a09d-fd070c797292",
+            "subcategory": 303,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "f969f123-8be4-43aa-8843-554737275fca",
+            "subcategory": 303,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "c42ab5be-c5b5-44e1-90a4-4cbb44b3e5b3",
+            "subcategory": 303,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "442d6e47-4a7f-43e3-ac8e-6bc91a4a512d",
+            "subcategory": 303,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "04649aff-0de5-43dc-a98a-80be55bc2d15",
+            "subcategory": 303,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "f1a0c763-d7a5-4fa2-a3d4-5d9881e63cf7",
+            "subcategory": 303,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "68290874-e094-42f8-9f78-a1c1e6319476",
+            "subcategory": 303,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "e82c9178-afb1-4b13-83de-729530992ef4",
+            "subcategory": 303,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "683515ab-ad6c-444d-8f14-93bc1dc97502",
+            "subcategory": 303,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "761b18f3-c682-4f5c-9c58-e98f241a8e1b",
+            "subcategory": 303,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "20f0fb2c-9e69-45db-8dfb-a1e72e998210",
+            "subcategory": 303,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "c7a47e6e-0c07-4d52-82f9-1b1156e9ab74",
+            "subcategory": 303,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "bc4872c6-42f6-4777-93bb-35cb1860b2cf",
+            "subcategory": 303,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "aa833e27-516b-4d3d-9489-4daad51b5010",
+            "subcategory": 303,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "79e14432-79ae-42eb-9872-05ba20a9292e",
+            "subcategory": 303,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "5fd2eae1-5c3c-4b82-b7c3-1e27f593a628",
+            "subcategory": 308,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "132c2063-cdce-4741-89e1-bb038487127e",
+            "subcategory": 308,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "81964ebe-5c8a-40a5-905d-6307a7ce1beb",
+            "subcategory": 308,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "11898a7c-c767-416f-8e5f-38c8062915c9",
+            "subcategory": 308,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "c8e19925-f819-41f7-bc10-5a0278ed25d5",
+            "subcategory": 308,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "007f32fa-46ab-4dc2-8981-2800a2bfd0d7",
+            "subcategory": 304,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "4464d9cf-7902-448a-86cc-8285b621e441",
+            "subcategory": 304,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "e970ce7c-378c-4dd4-b3c9-5716639d6407",
+            "subcategory": 304,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "bc6aac9a-7ec5-4b55-b5dd-a8ab0b0bccb6",
+            "subcategory": 304,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "20902e5b-1166-43fc-9f13-13d57f3dad05",
+            "subcategory": 304,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "ae1b82ac-91bc-4e96-8d78-07841e7d7de6",
+            "subcategory": 304,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "b0cd4a90-8aae-498b-b3fa-46d1cf4702bf",
+            "subcategory": 304,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "9f484371-4399-4187-ac76-faa58419c27c",
+            "subcategory": 305,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "651c66ed-cf2e-4a4d-88ff-7c6e1ed76f45",
+            "subcategory": 305,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "19ee5202-69ba-4805-a68b-38bf13718feb",
+            "subcategory": 305,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "9bcb0102-ff2d-4ae8-b8e7-2a58dde29b2c",
+            "subcategory": 305,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "230657c1-1b88-4d8b-8ab7-71a239c4780b",
+            "subcategory": 305,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "5042b68d-2a73-42ae-abb5-495049d53bb7",
+            "subcategory": 306,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "4b351d50-957f-4059-af73-32ce8d568539",
+            "subcategory": 306,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "17859809-9049-436b-87a2-f8995e7684ad",
+            "subcategory": 306,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "63c6e268-aef5-4d75-b586-b11b9d2ca386",
+            "subcategory": 306,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "2fde807f-f76a-49f9-a41a-b44bdada26d4",
+            "subcategory": 306,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "9ab344cc-c050-452f-8168-978dd54e92d7",
+            "subcategory": 306,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "bc3374b7-f447-49c8-960b-668a9d84b4bf",
+            "subcategory": 307,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "cd90b512-d44c-4781-8c1e-38c30aca5223",
+            "subcategory": 307,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "a7017bc7-3a8c-42ee-9a85-e20aa264caa8",
+            "subcategory": 307,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "7b1fbb03-3b9a-4210-8a07-feffbbad6268",
+            "subcategory": 307,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "390f93bb-77ef-4c30-afe6-606035b06405",
+            "subcategory": 309,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "1f6cd7e1-5c19-4e92-a9e3-c28f3fd71050",
+            "subcategory": 309,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "70f611ca-c032-4c97-8db3-ef03d9c5bad1",
+            "subcategory": 309,
+            "color": "b-communication"
+        },
+        {
+            "type": "tool",
+            "tag": "54AA32CC-3B7A-41B0-93ED-4B59642C8B6B",
+            "subcategory": 502,
+            "color": "b-file"
+        },
+        {
+            "type": "tool",
+            "tag": "F2F40892-DFC6-4DCC-9371-2A4691E45877",
+            "subcategory": 502,
+            "color": "b-file"
+        },
+        {
+            "type": "tool",
+            "tag": "0BD7910C-28F5-4D4E-859A-1B8920A78980",
+            "subcategory": 502,
+            "color": "b-file"
+        },
+        {
+            "type": "tool",
+            "tag": "D05E1F94-F77C-46D3-8962-1A2F8F7C8D6C",
+            "subcategory": 502,
+            "color": "b-file"
+        },
+        {
+            "type": "tool",
+            "tag": "12F8EB79-16EB-4411-A778-2326A7F4056B",
+            "subcategory": 502,
+            "color": "b-file"
+        },
+        {
+            "type": "tool",
+            "tag": "7143e412-534f-4dec-94c4-982dd2f3fad0",
+            "subcategory": 502,
+            "color": "b-file"
+        },
+        {
+            "type": "tool",
+            "tag": "AA2D053A-3217-4EC6-AC94-2AF9692651D0",
+            "subcategory": 502,
+            "color": "b-file"
+        },
+        {
+            "type": "tool",
+            "tag": "1AACA61A-88AD-47E1-99B4-9387654CC4E6",
+            "subcategory": 502,
+            "color": "b-file"
+        },
+        {
+            "type": "tool",
+            "tag": "DA62FD2F-9F3B-432B-B717-67FB99CFE214",
+            "subcategory": 502,
+            "color": "b-file"
+        },
+        {
+            "type": "tool",
+            "tag": "079CB3E4-D6E4-4CA8-908B-F6438215D3C7",
+            "subcategory": 502,
+            "color": "b-file"
+        },
+        {
+            "type": "tool",
+            "tag": "7B6A2BAB-805A-4B7C-874C-11E70064F9A1",
+            "subcategory": 502,
+            "color": "b-file"
+        },
+        {
+            "type": "tool",
+            "tag": "9E4ACE44-276E-4EB6-991E-8AD7555223C0",
+            "subcategory": 502,
+            "color": "b-file"
+        },
+        {
+            "type": "tool",
+            "tag": "ABED6A4A-BDB1-45D8-A894-161C0DFCB2EA",
+            "subcategory": 502,
+            "color": "b-file"
+        },
+        {
+            "type": "tool",
+            "tag": "4DABB99E-344F-469B-AAEE-E904496970BB",
+            "subcategory": 502,
+            "color": "b-file"
+        },
+        {
+            "type": "tool",
+            "tag": "AD82C0BD-7646-4B00-8BC3-66C378972DE3",
+            "subcategory": 502,
+            "color": "b-file"
+        },
+        {
+            "type": "tool",
+            "tag": "8c490e23-f834-4f39-a998-4bcb49a7039b",
+            "subcategory": 501,
+            "color": "b-file"
+        },
+        {
+            "type": "tool",
+            "tag": "c9586394-e9fd-49df-b32b-3d67c3a02a8d",
+            "subcategory": 501,
+            "color": "b-file"
+        },
+        {
+            "type": "tool",
+            "tag": "12ac9ac2-9ca6-468a-bab0-34a8a78f8634",
+            "subcategory": 501,
+            "color": "b-file"
+        },
+        {
+            "type": "tool",
+            "tag": "234aa231-7747-4f9c-963c-079f2feab092",
+            "subcategory": 501,
+            "color": "b-file"
+        },
+        {
+            "type": "tool",
+            "tag": "0d41e17c-664b-4483-9c30-869d022b32a0",
+            "subcategory": 501,
+            "color": "b-file"
+        },
+        {
+            "type": "tool",
+            "tag": "b5eea38d-e9fe-431b-b740-d1405a69e2d9",
+            "subcategory": 501,
+            "color": "b-file"
+        },
+        {
+            "type": "tool",
+            "tag": "bab755f9-fa40-4d44-9d9d-3f4ba0abaabb",
+            "subcategory": 501,
+            "color": "b-file"
+        },
+        {
+            "type": "tool",
+            "tag": "dd9f2149-2825-4ca4-abb5-4ef68f884ac5",
+            "subcategory": 501,
+            "color": "b-file"
+        },
+        {
+            "type": "tool",
+            "tag": "c1cc5f02-1508-4fdb-bbe8-f2cff2bd1fcd",
+            "subcategory": 501,
+            "color": "b-file"
+        },
+        {
+            "type": "tool",
+            "tag": "afd9e388-698e-4f2d-8ada-ef0830b714d1",
+            "subcategory": 501,
+            "color": "b-file"
+        },
+        {
+            "type": "tool",
+            "tag": "6e5fc0fb-2ce1-4a71-94d4-fcbdff2bf2bb",
+            "subcategory": 501,
+            "color": "b-file"
+        },
+        {
+            "type": "tool",
+            "tag": "80d3789d-924f-4c52-973a-6d30683d8f69",
+            "subcategory": 501,
+            "color": "b-file"
+        },
+        {
+            "type": "tool",
+            "tag": "8a65f46f-5bc8-409e-a486-8398734eb7c5",
+            "subcategory": 501,
+            "color": "b-file"
+        },
+        {
+            "type": "tool",
+            "tag": "93289e0e-10b4-44bf-b340-b88e77c8b164",
+            "subcategory": 501,
+            "color": "b-file"
+        },
+        {
+            "type": "tool",
+            "tag": "a2544385-b263-4ebe-a4a4-b18db9251d41",
+            "subcategory": 501,
+            "color": "b-file"
+        },
+        {
+            "type": "tool",
+            "tag": "2af2572e-20ae-491a-a66a-31946911dcef",
+            "subcategory": 503,
+            "color": "b-file"
+        },
+        {
+            "type": "tool",
+            "tag": "115ed1b8-b61c-48e4-8c28-fcf16c5d5611",
+            "subcategory": 503,
+            "color": "b-file"
+        },
+        {
+            "type": "tool",
+            "tag": "8f67250a-75e3-4b9b-8939-718be043aceb",
+            "subcategory": 401,
+            "color": "b-hardware"
+        },
+        {
+            "type": "tool",
+            "tag": "99f37c07-f8af-4c1e-8d16-073d7dfbea50",
+            "subcategory": 401,
+            "color": "b-hardware"
+        },
+        {
+            "type": "tool",
+            "tag": "39593eb1-542a-4ca4-88c7-2bc31e0bfb5a",
+            "subcategory": 401,
+            "color": "b-hardware"
+        },
+        {
+            "type": "tool",
+            "tag": "db7bf28e-1887-491b-a3bf-d9560e25a7fc",
+            "subcategory": 401,
+            "color": "b-hardware"
+        },
+        {
+            "type": "tool",
+            "tag": "23e10809-ce82-40be-a8c7-87923eb098be",
+            "subcategory": 401,
+            "color": "b-hardware"
+        },
+        {
+            "type": "tool",
+            "tag": "7c853b2c-a375-4b91-931e-8848a2e506c9",
+            "subcategory": 401,
+            "color": "b-hardware"
+        },
+        {
+            "type": "tool",
+            "tag": "875f18ad-460e-4506-93df-827cc4de15e6",
+            "subcategory": 401,
+            "color": "b-hardware"
+        },
+        {
+            "type": "tool",
+            "tag": "d876dd7f-4109-4a7e-9454-fc44cc2c7838",
+            "subcategory": 401,
+            "color": "b-hardware"
+        },
+        {
+            "type": "tool",
+            "tag": "a5fc25f8-f3b7-4936-b8b2-2f68d0a6303e",
+            "subcategory": 401,
+            "color": "b-hardware"
+        },
+        {
+            "type": "tool",
+            "tag": "f2d9c8d9-1ff3-4ac1-b653-a4c4799d02c3",
+            "subcategory": 401,
+            "color": "b-hardware"
+        },
+        {
+            "type": "tool",
+            "tag": "a64f6b38-179a-4e2b-84ae-efa26fe6662a",
+            "subcategory": 401,
+            "color": "b-hardware"
+        },
+        {
+            "type": "tool",
+            "tag": "71f8ab72-7566-4038-8d0f-47c892ef4a47",
+            "subcategory": 405,
+            "color": "b-hardware"
+        },
+        {
+            "type": "tool",
+            "tag": "ccc8fe57-2eb5-4b82-ad9d-51c8b3f6ee06",
+            "subcategory": 405,
+            "color": "b-hardware"
+        },
+        {
+            "type": "tool",
+            "tag": "fd63968d-22e0-42dd-bc20-fa387fc6efea",
+            "subcategory": 405,
+            "color": "b-hardware"
+        },
+        {
+            "type": "tool",
+            "tag": "882c8e6f-7d95-405a-9655-86168c83ab87",
+            "subcategory": 405,
+            "color": "b-hardware"
+        },
+        {
+            "type": "tool",
+            "tag": "68c8d754-2a6c-4115-8b26-33e79532105d",
+            "subcategory": 405,
+            "color": "b-hardware"
+        },
+        {
+            "type": "tool",
+            "tag": "6a4d2f87-8509-4582-9725-f0462564aa47",
+            "subcategory": 405,
+            "color": "b-hardware"
+        },
+        {
+            "type": "tool",
+            "tag": "70b70ff8-5c9e-4874-b954-6715a0c6aa52",
+            "subcategory": 405,
+            "color": "b-hardware"
+        },
+        {
+            "type": "tool",
+            "tag": "856f30e5-ba4d-49dc-a5d8-418fa549089c",
+            "subcategory": 405,
+            "color": "b-hardware"
+        },
+        {
+            "type": "tool",
+            "tag": "34bb0a1a-b193-4a15-8396-0fd87e94aa73",
+            "subcategory": 405,
+            "color": "b-hardware"
+        },
+        {
+            "type": "tool",
+            "tag": "62292BE1-68CB-4535-9F16-F6472257390D",
+            "subcategory": 406,
+            "color": "b-hardware"
+        },
+        {
+            "type": "tool",
+            "tag": "FA0F276F-1B59-4859-826A-FAB2A9B733F0",
+            "subcategory": 406,
+            "color": "b-hardware"
+        },
+        {
+            "type": "tool",
+            "tag": "C436CB2F-DEB4-4911-886B-D1874552C21D",
+            "subcategory": 406,
+            "color": "b-hardware"
+        },
+        {
+            "type": "tool",
+            "tag": "F14286EB-A114-499F-A858-636133E0BBAE",
+            "subcategory": 406,
+            "color": "b-hardware"
+        },
+        {
+            "type": "tool",
+            "tag": "6CCA4CF4-1CD8-489A-ACD1-9DF6DE2E37A0",
+            "subcategory": 406,
+            "color": "b-hardware"
+        },
+        {
+            "type": "tool",
+            "tag": "DC4B0748-59DE-4AF6-B284-8D0950B7AAFC",
+            "subcategory": 406,
+            "color": "b-hardware"
+        },
+        {
+            "type": "tool",
+            "tag": "1AEF1855-FC6F-4419-A214-528AC28916BF",
+            "subcategory": 403,
+            "color": "b-hardware"
+        },
+        {
+            "type": "tool",
+            "tag": "ECC4718C-1400-43E4-A82C-918FD1F33AC7",
+            "subcategory": 403,
+            "color": "b-hardware"
+        },
+        {
+            "type": "tool",
+            "tag": "c6e70a74-e879-4e37-879b-8aafbf20d2ed",
+            "subcategory": 403,
+            "color": "b-hardware"
+        },
+        {
+            "type": "tool",
+            "tag": "2db9ea09-5456-491c-8916-d16e2494509b",
+            "subcategory": 403,
+            "color": "b-hardware"
+        },
+        {
+            "type": "tool",
+            "tag": "9754C3D7-0B8F-433D-9DED-86C8F993A7A8",
+            "subcategory": 403,
+            "color": "b-hardware"
+        },
+        {
+            "type": "tool",
+            "tag": "314D3366-D717-4A86-9B97-9D7D5887AF5E",
+            "subcategory": 403,
+            "color": "b-hardware"
+        },
+        {
+            "type": "tool",
+            "tag": "3E4D255E-FA92-4843-BB50-68B1C38F0DCC",
+            "subcategory": 402,
+            "color": "b-hardware"
+        },
+        {
+            "type": "tool",
+            "tag": "803410F8-F9A8-405A-AAA4-968888E8CADE",
+            "subcategory": 402,
+            "color": "b-hardware"
+        },
+        {
+            "type": "tool",
+            "tag": "D4DD86A4-23A9-45C6-B10A-FFBB3C7FDAE5",
+            "subcategory": 402,
+            "color": "b-hardware"
+        },
+        {
+            "type": "tool",
+            "tag": "B815A11B-C0BB-4CE3-AB7D-A4D1DE0AAB35",
+            "subcategory": 402,
+            "color": "b-hardware"
+        },
+        {
+            "type": "tool",
+            "tag": "8bad1ce8-71dd-49bb-923f-e7dbd266631c",
+            "subcategory": 404,
+            "color": "b-hardware"
+        },
+        {
+            "type": "tool",
+            "tag": "e332c594-fdd6-40a9-b7d9-43d3055b4e71",
+            "subcategory": 404,
+            "color": "b-hardware"
+        },
+        {
+            "type": "tool",
+            "tag": "a7655375-6e65-4626-97d4-1b3412d7243a",
+            "subcategory": 404,
+            "color": "b-hardware"
+        },
+        {
+            "type": "tool",
+            "tag": "ed5e6932-e2b7-4eea-94a3-197eab369e54",
+            "subcategory": 404,
+            "color": "b-hardware"
+        },
+        {
+            "type": "tool",
+            "tag": "5ad88ca7-ce5a-4898-b590-81b005a6685e",
+            "subcategory": 404,
+            "color": "b-hardware"
+        },
+        {
+            "type": "tool",
+            "tag": "ebf8fbde-b4d4-4b37-bdbc-558bd8d7bae9",
+            "subcategory": 404,
+            "color": "b-hardware"
+        },
+        {
+            "type": "tool",
+            "tag": "c9daf89d-4510-4f05-be2e-6e01ec794810",
+            "subcategory": 404,
+            "color": "b-hardware"
+        },
+        {
+            "type": "tool",
+            "tag": "ff0be7d7-21c0-446a-a66d-4019b2084648",
+            "subcategory": 404,
+            "color": "b-hardware"
+        },
+        {
+            "type": "tool",
+            "tag": "999e810c-46a3-4bdf-a187-9d312aaa3c4e",
+            "subcategory": 404,
+            "color": "b-hardware"
+        },
+        {
+            "type": "tool",
+            "tag": "cb8a89c4-d55d-4182-80d2-c528dfcb98d6",
+            "subcategory": 404,
+            "color": "b-hardware"
+        },
+        {
+            "type": "tool",
+            "tag": "16D2F1E5-BB60-479E-BA96-B19E4439A476",
+            "subcategory": 609,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "CD094740-D9D9-4E7A-84A7-3F4973D39962",
+            "subcategory": 609,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "B4E55162-1675-46A1-8A45-731C3EDFE966",
+            "subcategory": 609,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "EB6E7111-657F-4EC1-B75F-F4AA3B108E02",
+            "subcategory": 609,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "29848D34-6F9D-41EB-ADF9-73B4EE1D4EB2",
+            "subcategory": 609,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "AFEB529C-969C-4884-88E6-A6320032B290",
+            "subcategory": 609,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "1e48a19f-f71c-4c64-93ef-d874ab2aaaf2",
+            "subcategory": 610,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "8580687d-c8a1-42d8-bd2d-a6c47cec34df",
+            "subcategory": 610,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "1ae8626d-a112-4d9a-9bed-3f50e6b642a2",
+            "subcategory": 610,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "80634770-3874-45aa-84cb-98ddd9fe6704",
+            "subcategory": 610,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "a970f2d0-449d-49de-90a3-96eff7b7a18c",
+            "subcategory": 610,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "1D22CB5C-5820-4B42-8B5B-9812A15BC59F",
+            "subcategory": 610,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "36BEEFFC-A36C-4C77-9BF7-EDEF13347E5F",
+            "subcategory": 601,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "F62A90D8-9501-4E90-830D-D252E0C5DEFA",
+            "subcategory": 601,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "B60BFAA9-AA1D-45AC-AA99-D90DEF60C777",
+            "subcategory": 601,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "E0B320E3-87B9-4295-BA75-AEA318AD4135",
+            "subcategory": 601,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "E74F9623-6EDB-4843-BD5A-A4F1C169F84C",
+            "subcategory": 601,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "A495C8C5-9F5C-4EC7-8953-77CD3CFE85F6",
+            "subcategory": 601,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "C93C6A76-463D-4C0F-BAA2-8DBC6D4C488A",
+            "subcategory": 601,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "74D65937-F74B-4E07-AC9C-9637E9E6817E",
+            "subcategory": 601,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "5CE53155-70B7-4787-8A7E-2EC03AC9DBC8",
+            "subcategory": 601,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "1808E8F8-BFC1-46B5-88B0-536741E97316",
+            "subcategory": 601,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "A132B3EB-1F04-4697-9A82-A8A91E5727E9",
+            "subcategory": 601,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "ABA147F8-0049-49E4-AAB4-6CDF16CAB9C8",
+            "subcategory": 601,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "07366813-0DB8-4E0F-9671-93356A3A7D96",
+            "subcategory": 601,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "037C7514-4E51-40CE-8582-EBB32D330E31",
+            "subcategory": 601,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "1D496B77-1661-4717-9F3A-3BD768132E5F",
+            "subcategory": 601,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "D72CDD1C-B0DA-447A-9D7A-7159198C63D4",
+            "subcategory": 601,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "0EEF4196-5E20-4A28-8D97-EC92DA12F83B",
+            "subcategory": 601,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "CC027315-ECD5-4ABB-A4CC-3E94280B0291",
+            "subcategory": 601,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "CDC60AC7-D8C7-4C80-BEEF-BE9FA9DCEAE9",
+            "subcategory": 601,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "062B74F5-8056-4363-B350-C18BA898A514",
+            "subcategory": 601,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "9B566371-A7CF-4648-9E2F-FC4728917761",
+            "subcategory": 601,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "576FD81C-CE90-4980-862A-1892A64FAEBF",
+            "subcategory": 601,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "BEA71573-9A43-4BEB-A420-88096F907942",
+            "subcategory": 601,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "04031058-840E-4713-B92A-EC656466C1CE",
+            "subcategory": 601,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "367B18C0-99FB-487F-A61D-2939064392FC",
+            "subcategory": 601,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "1E24CFCA-A9B2-4595-8B5C-16A7241E873A",
+            "subcategory": 601,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "2A60FA80-B375-4B37-BFB7-7D3BAA9529AF",
+            "subcategory": 601,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "AD72C8A8-F909-42EA-B7E7-AC1B8FE16C4A",
+            "subcategory": 601,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "F63927D1-01C5-46A1-8778-295E14E6F984",
+            "subcategory": 601,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "C5565D3D-304B-48B5-B4C3-874011CB2CF4",
+            "subcategory": 601,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "EB392BEC-2E9C-4194-90E6-875FD82D0D83",
+            "subcategory": 601,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "C9F6223C-501E-4687-944F-D19B18331D41",
+            "subcategory": 601,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "2AD9A3AE-050A-4B4F-AC86-C9531E178647",
+            "subcategory": 601,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "8BC2858F-CD41-42CF-A7C8-87BD317405AC",
+            "subcategory": 601,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "990F95B1-6CE0-4885-AC6D-BDC2C6D1C95F",
+            "subcategory": 601,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "dce54976-6a25-4847-9869-8daa156e1e99",
+            "subcategory": 602,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "2a66b097-6fcf-4edd-8da6-32624f8d6f23",
+            "subcategory": 602,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "135bc680-4f9a-4a17-9ff4-9896508bf404",
+            "subcategory": 602,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "d32d12c6-2c6d-45ea-bfd4-bf7c929358f3",
+            "subcategory": 602,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "ef42b44c-4702-41a2-ad0b-d14b64a76e83",
+            "subcategory": 602,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "5ea6ed15-a26d-4f12-8217-5eba892c6052",
+            "subcategory": 602,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "19cf1b9f-6701-4d2e-a969-a6b34fa04b3b",
+            "subcategory": 602,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "3e9cb5e4-1b45-4eb1-9b37-8582b6b505ca",
+            "subcategory": 602,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "d20c1b0a-7eba-4cd5-9d54-c715e28cc249",
+            "subcategory": 602,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "1a511e7b-03f0-4e5a-99dd-6ac639c26174",
+            "subcategory": 602,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "142644dd-b11a-47e0-b3ac-943a64c4f931",
+            "subcategory": 602,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "34f57f2d-cfcf-4cd4-8cb6-82ebcea46040",
+            "subcategory": 602,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "2a7ed0c3-da98-4f38-b69d-e55f46636df1",
+            "subcategory": 602,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "7e7ce5c7-52b2-4261-92dc-86b992df7f45",
+            "subcategory": 602,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "57707868-9a1d-48e5-a7a4-4b8d8b625ff8",
+            "subcategory": 602,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "11aaa53b-86be-4472-bdc9-b0eda35839a1",
+            "subcategory": 602,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "eedb4572-24fc-4efe-8e5c-4e7ffc9b0bb3",
+            "subcategory": 602,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "61c5bd32-d891-4039-8bea-2b0d992e91fa",
+            "subcategory": 602,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "69edea05-3e99-44bb-ae00-11fcadf651fc",
+            "subcategory": 602,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "8c0a9767-b26c-4e89-83af-8e6f77656e28",
+            "subcategory": 602,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "AB76EDA5-89F7-4D0C-883B-185FAE66F20F",
+            "subcategory": 608,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "891EE602-B16C-4F25-93AC-16E74810BB29",
+            "subcategory": 608,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "0F4C4B2F-CACD-4E59-9B45-D53FA57E6186",
+            "subcategory": 608,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "75192DB1-AA1C-4F48-B305-C6E0F5280344",
+            "subcategory": 608,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "88AE6C54-E513-4318-B361-C5040605AE6E",
+            "subcategory": 608,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "5F7DEA4C-39EB-495D-B7FC-1FD0AAFAC0B1",
+            "subcategory": 608,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "E38316B1-7FD2-4D55-B4F1-5D2A0118F6AB",
+            "subcategory": 608,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "4F389ECF-15D2-413B-A65E-A90E93182733",
+            "subcategory": 608,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "DDD9E2CA-4AF3-42D5-B894-718330B3969E",
+            "subcategory": 608,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "EB149175-2D41-4469-A9D5-1E8634565ED8",
+            "subcategory": 608,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "F7F79967-2A24-4CB9-BF36-4444294C5142",
+            "subcategory": 608,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "DFBBAB05-3A03-4A5F-B799-3B24C9883E63",
+            "subcategory": 608,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "E386AB3F-A74A-4017-89CC-8D5B14B98FF3",
+            "subcategory": 608,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "DCC02D7B-C70F-443B-B077-9533EE5B0971",
+            "subcategory": 608,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "050151C1-09B5-4511-ADC8-24557AC54976",
+            "subcategory": 603,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "F93A610D-302E-4494-8B78-49E18820D743",
+            "subcategory": 603,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "17A64D64-2D33-4A3E-B863-5F9776CB9623",
+            "subcategory": 603,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "4DDBADF0-EEE6-4652-9E9D-6C5C63028B19",
+            "subcategory": 603,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "FBEEA0C9-8A00-44AB-A725-AF402FED54D5",
+            "subcategory": 603,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "1F164437-93D5-4916-9865-433A8B126199",
+            "subcategory": 603,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "3EAC3137-F983-4EC5-B9BB-97FF7466953C",
+            "subcategory": 603,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "9D547F14-4D8F-479D-9302-B997F99CD769",
+            "subcategory": 603,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "604D4B9A-BCA7-47B8-A0B7-FB6DD30F32B8",
+            "subcategory": 603,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "A6E2CED1-0F66-4597-9E8B-2D31CFFF1778",
+            "subcategory": 603,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "11EBE832-BED1-4EB6-9D83-C403AE677F15",
+            "subcategory": 603,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "CB8CF23D-CC05-4CA8-83A7-66B3B99DF9DD",
+            "subcategory": 603,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "169059F2-148A-43B6-BBBE-5625BD669ACF",
+            "subcategory": 603,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "F04FB096-089C-4989-A692-C7A3D5F88574",
+            "subcategory": 604,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "406CD34C-B712-4C95-8C79-7E21EF221F21",
+            "subcategory": 604,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "60525FF7-11E0-438A-96C5-5108933640BD",
+            "subcategory": 604,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "AC7CB1AE-8C32-46CB-B684-C1360FB6ECD0",
+            "subcategory": 604,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "D55F6D78-47CC-47E7-87E1-AECB5F87B380",
+            "subcategory": 604,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "86D3B3DC-33CC-4753-B58C-8B0CF6AD8882",
+            "subcategory": 604,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "74ef8b37-6800-4e35-a74c-f03dacca6560",
+            "subcategory": 605,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "7184be43-b6bc-462d-993f-1233eec79f1e",
+            "subcategory": 605,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "16177a0d-293b-4602-821b-f203c40cd1b1",
+            "subcategory": 605,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "3040fb9b-ff83-47c7-a7da-2d1f3140d388",
+            "subcategory": 605,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "2377ca88-060b-49e9-8bfb-0d0efe0031a0",
+            "subcategory": 605,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "45afd8d6-91c0-4fe2-b093-5a4059049e0d",
+            "subcategory": 605,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "b8199227-1eae-496a-a3c2-f1d82ab93a0d",
+            "subcategory": 605,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "acabb404-850b-4056-977e-e4e0c6222876",
+            "subcategory": 605,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "03c9b9d4-47df-4c2d-b792-a1da13e2bc2d",
+            "subcategory": 605,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "67cd4972-b216-4d4b-8ef2-d8555edde915",
+            "subcategory": 605,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "39cecf8f-dbb7-45d1-b939-71939bf2d380",
+            "subcategory": 607,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "6428f7e4-c89c-4af9-88b3-23708fe04e99",
+            "subcategory": 607,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "58933dc4-df83-4f34-8d39-3e5f95b5f439",
+            "subcategory": 607,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "fd339c94-820d-4580-a2d0-af0e97cac58e",
+            "subcategory": 607,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "35bd87e6-da0d-43c1-987c-7cf40430160d",
+            "subcategory": 607,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "7716e112-4491-4ec8-b35e-15a6b3df2a37",
+            "subcategory": 607,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "ef6f2762-0e49-4d6f-85ff-edb91ea4ed3c",
+            "subcategory": 607,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "93fb7e1a-aafc-4cee-9edd-2091bcfacb42",
+            "subcategory": 607,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "9d53f154-5cc5-4459-a40a-e51b886be699",
+            "subcategory": 607,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "a7c91793-7971-4d57-9a8f-e2b1a6c32332",
+            "subcategory": 607,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "1f66dc6e-0d14-4dbd-80a4-b9d319bb6f6c",
+            "subcategory": 607,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "bf521cbd-cf98-4c81-acbf-11fd678f5e5d",
+            "subcategory": 607,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "772bfb04-7262-45f5-852f-7bd48bfbe35f",
+            "subcategory": 607,
+            "color": "b-operations"
+        },
+        {
+            "type": "tool",
+            "tag": "c5f091b1-c0d1-4d01-bacc-72bc87be9947",
+            "subcategory": 102,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "8c2bbb49-7075-4cac-8a7e-7ba195b443b7",
+            "subcategory": 101,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "37385e7f-4858-4dd7-b1f4-64b0b73e2f06",
+            "subcategory": 101,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "6f9d7f5f-4573-4ba1-b439-17a68ed511c3",
+            "subcategory": 101,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "73e5de57-f511-4d65-bf5d-e0def3a354ef",
+            "subcategory": 101,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "54BBE763-B9ED-45FF-BD97-A1717B201FBC",
+            "subcategory": 108,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "F3490261-E06D-496E-8475-2C1E0517FB0D",
+            "subcategory": 108,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "664DA516-3EB7-4821-83D1-96E795030FE6",
+            "subcategory": 108,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "2a4c3bc9-d94e-46b8-9e64-bbe39ad03cf5",
+            "subcategory": 105,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "8c51f6b1-f6e0-4ace-bc89-9cc648f327da",
+            "subcategory": 105,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "a32a0ce7-7a2f-49e0-9675-c3a8a01b02a4",
+            "subcategory": 105,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "8c51f6b1-f6e0-4ace-bc89-9cc648f327de",
+            "subcategory": 105,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "3d241e38-4535-4856-9613-6e9033bc6ed6",
+            "subcategory": 105,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "5f6fd963-e414-4f1e-88c2-6af1f78d934e",
+            "subcategory": 105,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "ec192de2-a9a7-4335-ac5c-fe847494bbad",
+            "subcategory": 105,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "b47e2e20-4dcb-440b-bc33-6ce7e0a74a28",
+            "subcategory": 105,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "0732e761-ba7a-479f-835b-6f7aaacd90f8",
+            "subcategory": 105,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "1bf7a26a-5473-44fe-92cd-6a100290d543",
+            "subcategory": 105,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "b945d5d2-504d-45d1-93ac-0409b2cfb44c",
+            "subcategory": 105,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "228a4c9e-b6da-4a87-8692-612f5ff4226e",
+            "subcategory": 105,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "6d4b336b-b15d-46a3-b5c2-bbbede960292",
+            "subcategory": 105,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "b5b9e2fb-fda6-4d4a-850b-98f113e8ca9a",
+            "subcategory": 105,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "f0d365c0-e287-46aa-b5a7-910d4843e805",
+            "subcategory": 105,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "bb9a39e6-319b-4df1-884e-0a65f74b86c2",
+            "subcategory": 105,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "ca22987a-d4cd-4d7f-b9e5-f1cb1e6fb3ci",
+            "subcategory": 105,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "C28F9312-9CC4-4AA3-82FC-7557F191886F",
+            "subcategory": 105,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "ca22987a-d4cd-4d7f-b9e5-f1cb1e6fb3ce",
+            "subcategory": 105,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "ae14440c-6fa2-4bbc-bf62-8a7b96b8f60a",
+            "subcategory": 105,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "2a719609-bf4e-4838-bbb2-c789cc222d75",
+            "subcategory": 105,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "59071290-5807-4067-9890-74bf7c6e0b67",
+            "subcategory": 105,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "063a393b-8a10-4fd6-9d6b-fc116186085a",
+            "subcategory": 105,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "089362ea-4192-4d02-9651-9260b61fb57f",
+            "subcategory": 105,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "941dc933-54f8-4a8c-bdcf-14447af3115e",
+            "subcategory": 105,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "eb36cabe-7e74-44d9-8e9b-674e0a5efa7e",
+            "subcategory": 105,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "e0ed6fa1-143a-490d-83ee-7c974f5f3aae",
+            "subcategory": 105,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "9291b09f-d6aa-4732-b28c-3cd75c83ab59",
+            "subcategory": 105,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "2cde990f-7809-4cb4-ae24-dbe394cb7f42",
+            "subcategory": 105,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "ae4054d0-94d5-4bf1-9e6b-2cdfa6689950",
+            "subcategory": 105,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "1f600067-125a-415b-a186-d6340d4b9d61",
+            "subcategory": 105,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "B30683A1-4498-45E1-A6A5-918540B51E5A",
+            "subcategory": 104,
+            "color": "b-finish"
+        },
+        {
+            "type": "tool",
+            "tag": "AE4C2420-68BE-49A9-940F-43EBC9D57F4C",
+            "subcategory": 104,
+            "color": "b-finish"
+        },
+        {
+            "type": "tool",
+            "tag": "2a05922d-862c-49d7-a1d4-7a8c8ebb171e",
+            "subcategory": 104,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "f95bfc5a-5081-4a17-bff1-bf9367b87690",
+            "subcategory": 104,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "714782e0-7a3c-435f-8899-2aa040c75bfe",
+            "subcategory": 109,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "6ffe1126-9598-449e-8978-e9e079d50dec",
+            "subcategory": 109,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "8bb2f2f6-b8af-4fe8-b35d-2775232591a9",
+            "subcategory": 109,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "8d607663-89b8-431c-9df4-e54aac1c2ba0",
+            "subcategory": 109,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "b011ba45-adbe-4113-9c7d-ed6f3152cbf8",
+            "subcategory": 103,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "b1a88e36-a3e6-4951-93cd-e2e2bde9a60b",
+            "subcategory": 103,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "a1c4e4b3-0282-4a92-a47b-ad68218aedf3",
+            "subcategory": 103,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "5C96DBF5-98A2-47B1-8D38-C9CD3CD187B7",
+            "subcategory": 106,
+            "color": "b-finish"
+        },
+        {
+            "type": "tool",
+            "tag": "5E71CA01-E5C9-41C1-8046-1C8A3B0C8425",
+            "subcategory": 106,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "B4CDBE92-A7CE-4908-95D9-13AF0D0AD74B",
+            "subcategory": 106,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "BB1D4B60-D074-44D3-9844-81F38F461F2C",
+            "subcategory": 110,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "D6BE0B10-F157-4EC3-A882-680EC168618E",
+            "subcategory": 110,
+            "color": "b-system"
+        },
+        {
+            "type": "tool",
+            "tag": "11049D79-02F2-48B8-9EB2-1D449BED92A5",
+            "subcategory": 110,
+            "color": "b-system"
+        }
+    ]
+}
